@@ -529,3 +529,13 @@ input[type="submit"]:hover{
     }
 
 }
+
+@font-face {
+    font-family: 'The-Historia-Demo';
+    src:url('The-Historia-Demo.ttf.woff') format('woff'),
+        url('The-Historia-Demo.ttf.svg#The-Historia-Demo') format('svg'),
+        url('The-Historia-Demo.ttf.eot'),
+        url('The-Historia-Demo.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
